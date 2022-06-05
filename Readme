@@ -1,0 +1,2 @@
+This is a VBA function, which takes as inputs individual data and calculates an upper bound for the expected value of the specified function (like Jensen's inequality).
+This specified function is user defined (by default something random) and can be made nonlinear and multivariate.
